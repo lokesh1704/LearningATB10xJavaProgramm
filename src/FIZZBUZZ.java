@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class FIZZBUZZ {
     public static void main(String[] args) {
         int i, a;
